@@ -50,7 +50,7 @@ Cross‑border data‑handling considerations in multi‑cloud environments
 ## 📄 Full Paper
 
 ### 📘 PDF version
-[Download PDF](paper/Module_3_Assignment_1.pdf)
+[Download PDF](paper/Module%203%20Assignment%201.pdf)
 
 Contains the full academic narrative, figures, tables, and complete reference list.
 
