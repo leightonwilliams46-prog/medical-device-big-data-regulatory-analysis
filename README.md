@@ -1,55 +1,59 @@
 # Big Data Analytics in Medical Device Regulatory Compliance
 
-This repository contains my academic paper analysing how Big Data technologies can support Medical Device Regulation (MDR 2017/745) compliance activities. The work forms part of my postgraduate study and explores how distributed processing, NoSQL systems, NLP, cloud platforms, and Explainable AI (XAI) can be applied to post‑market surveillance (PMS), clinical evidence evaluation, and risk‑based auditing. [1](https://github.com/leightonwilliams46-prog/python-stock-analysis)
+This repository contains my postgraduate research paper exploring how Big Data technologies can strengthen compliance with the EU Medical Device Regulation (MDR 2017/745). The work focuses on how distributed computing, NoSQL architectures, NLP, cloud platforms, and Explainable AI (XAI) can support post‑market surveillance (PMS), clinical‑evidence workflows, and risk‑based auditing.
 
 ---
 
 ## 📌 Overview
 
-Modern medical‑device regulation requires organisations to process increasingly large, diverse, and complex datasets. My paper examines how Big Data tools and architectures can help achieve:
+Modern MDR compliance requires organisations to manage increasingly large, diverse, and fast‑moving datasets. This paper examines how Big Data tools and architectures can improve:
 
-- Real‑time PMS signal detection (e.g., using Spark stream processing)  
-- More efficient analysis of CER/PMCF documentation through NLP  
-- Scalable storage of heterogeneous vigilance and complaint data using NoSQL  
-- Improved traceability, transparency, and model auditability through XAI  
-- Secure, GDPR‑aligned cloud deployments for regulated environments [1](https://github.com/leightonwilliams46-prog/python-stock-analysis)
+Real‑time PMS signal detection using distributed stream processing
+Automated analysis of CER and PMCF documentation through NLP
+Scalable storage of heterogeneous vigilance and complaint data via NoSQL systems
+Model transparency and auditability via XAI
+Secure, GDPR‑aligned cloud deployments suitable for regulated environments
 
-The work aligns these technologies to specific MDR requirements such as Article 83 PMS obligations, Annex VII Notified Body competencies, and ISO/IEC 17065 expectations.
+The work links these technologies directly to MDR requirements, such as Article 83 PMS obligations, Annex VII competency expectations, and ISO/IEC 17065 principles of impartiality, traceability, and data integrity.
 
 ---
 
 ## 🧠 Key Topics Covered
 
-### **1. Big Data Technologies**
-- Apache Spark and Hadoop for distributed analytics  
-- NoSQL databases (e.g., Cassandra, MongoDB) for storing unstructured PMS data  
-- Stream‑processing for near‑real‑time vigilance monitoring  
-- Cloud platforms (AWS, Azure, GCP) for elastic, secure computation [1](https://github.com/leightonwilliams46-prog/python-stock-analysis)
+1. Big Data Technologies
 
-### **2. NLP for Regulatory Analysis**
-- Automated extraction of key evidence from CER and PMCF documents  
-- Harmonisation of narrative vigilance reports  
-- Detection of emerging device safety signals using text mining [1](https://github.com/leightonwilliams46-prog/python-stock-analysis)
+Distributed analytics with Apache Spark and Hadoop
+NoSQL databases (e.g., MongoDB, Cassandra) for unstructured PMS and vigilance data
+Stream‑processing architectures for near‑real‑time device‑safety monitoring
+Cloud platforms (Azure, AWS, GCP) enabling scalable, compliant computation
 
-### **3. Explainable AI (XAI)**
-- Ensuring transparency and interpretability of ML models  
-- Supporting regulatory audits that require explainability  
-- Reducing risks associated with “black‑box” predictive systems [1](https://github.com/leightonwilliams46-prog/python-stock-analysis)
+2. NLP for Regulatory Analysis
 
-### **4. Governance, Security & GDPR**
-- Data integrity requirements for classification decisions  
-- Role‑based access control, encryption, and audit trails  
-- Cloud compliance and cross‑border data handling considerations [1](https://github.com/leightonwilliams46-prog/python-stock-analysis)
+Automated extraction of key evidence from CER/PMCF reports
+Structuring narrative vigilance submissions into analysable formats
+Early detection of emerging device‑safety trends through text mining
+
+3. Explainable AI (XAI)
+
+Ensuring interpretability of predictive models in regulated contexts
+Supporting audits that require transparent decision pathways
+Mitigating the risks associated with opaque “black‑box” systems
+
+4. Governance, Security & GDPR
+
+Data integrity and traceability requirements for regulatory decisions
+Role‑based access controls, encryption, and audit‑trail expectations
+Cross‑border data‑handling considerations in multi‑cloud environments
 
 ---
 
 ## 📄 Full Paper
 
 ### 📘 PDF version (recommended for viewing)
-`paper/Module_3_Assignment_1.pdf`
+paper/Module_3_Assignment_1.pdf
 
 ### 📝 DOCX version (optional)
-`paper/Module_3_Assignment_1.docx`
+paper/Module_3_Assignment_1.docx
 
 Both versions contain the full academic narrative, figures, tables, and complete reference list.
 
@@ -69,15 +73,16 @@ medical-device-big-data-regulatory-analysis/
 
 ## 🧭 Why I Added This to My Portfolio
 
-As a Global Quality & Accreditation Administrator working within MDR frameworks, this paper represents the intersection of my professional experience and academic development. It demonstrates my understanding of:
+Working in Global Quality & Accreditation has given me firsthand exposure to MDR processes, PMS workflows, and the operational challenges faced by Notified Bodies and manufacturers.
+This paper represents the intersection of:
 
-- Big‑data architectures  
-- Regulatory obligations under MDR  
-- PMS and clinical‑evidence workflows  
-- AI governance and explainability  
-- Data‑driven quality systems  
+Big‑data architectures
+Regulatory obligations under MDR
+PMS and clinical‑evidence evaluation
+AI governance, transparency, and risk management
+Data‑driven quality‑system development
 
-This work supports my long‑term goal of integrating advanced analytics into regulated quality‑management environments.
+It demonstrates how advanced analytics can support more consistent, scalable, and evidence‑based regulatory decision‑making — a key area I aim to develop further in my career.
 
 ---
 
@@ -91,5 +96,5 @@ This work supports my long‑term goal of integrating advanced analytics into re
 
 ---
 
-*Thank you for viewing this repository.*  
-*Feedback and collaboration ideas are always welcome.*
+Thank you for exploring this project.
+Feedback and collaboration are always welcome.
