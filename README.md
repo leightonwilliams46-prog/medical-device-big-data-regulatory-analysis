@@ -61,6 +61,7 @@ Both versions contain the full academic narrative, figures, tables, and complete
 
 ## 📁 Repository Structure
 
+```
 medical-device-big-data-regulatory-analysis/
 │
 ├── paper/
@@ -68,6 +69,7 @@ medical-device-big-data-regulatory-analysis/
 │   └── Module_3_Assignment_1.docx   (optional)
 │
 └── README.md
+```
 
 ---
 
